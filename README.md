@@ -56,8 +56,11 @@ Build scripts will create in current folder with additional structure:
  >+ eg: 	Print actual architecture: 
 		`uname -m`
 
+
 ###Thanks to:###
+
 * Cross-Compiling information:
+
 >* <http://tinsuke.wordpress.com/2011/02/17/how-to-cross-compiling-libraries-for-ios-armv6armv7i386/>
 >* <https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling/iOS>
 >* <http://wiki.osdev.org/GCC_Cross-Compiler>
